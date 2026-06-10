@@ -1,0 +1,6 @@
+streamlit==1.46.0
+tensorflow==2.21.0
+numpy
+pandas
+scikit-learn
+nltk
